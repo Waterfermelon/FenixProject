@@ -1,0 +1,15 @@
+<div (click)="onClickSelectLang()" id="selectLang" class="lang">
+  <select name="lang" class="select" style="display: none;">
+    <option *ngFor="let lang of options(); let i = index" [value]="i">{{ lang }}</option>
+  </select>
+  <div class="nice-select select {{selectingOption ? 'open' : ''}}" tabindex="0">
+    <span class="current">{{ selectedOption() }}</span>
+    <ul class="list">
+      <li *ngFor="let lang of options(); let i = index"
+          (click)="onOptionClick(lang)" data-value="{{i}}"
+          class="option {{selectedOption() === lang ? 'selected focus' : ''}}">
+        {{ lang }}
+      </li>
+    </ul>
+  </div>
+</div>

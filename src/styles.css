@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+/* You can add global css to this file, and also import other style files */
+@import url('assets/css/css-animate.min.css');
+@import url('assets/css/css-bootstrap.min.css');
+@import url('assets/css/css-flaticon.css');
+@import url('assets/css/css-fontawesome.min.css');
+@import url('assets/css/css-icofont.min.css');
+@import url('assets/css/css-jquery-ui.min.css');
+@import url('assets/css/css-magnific-popup.css');
+@import url('assets/css/css-nice-select.min.css');
+@import url('assets/css/css-owl.carousel.min.css');
+@import url('assets/css/css-owl.theme.default.min.css');
+@import url('assets/css/css-style.css');
+@import url('assets/css/css-themify-icons.css');
+@import url('assets/css/css-custom.css');

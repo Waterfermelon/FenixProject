@@ -1,0 +1,47 @@
+<div class="faq-area py-120">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 mx-auto">
+        <div class="site-heading text-center">
+          <span class="site-title-tagline">Preguntas frecuentes</span>
+          <h2 class="site-title">Encuentra la respuesta</h2>
+          <p>
+            A las preguntas más frecuentes de nuestros servicios
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-5 align-self-start">
+        <div class="faq-img">
+          <img src="assets/img/faq.jpg" alt="">
+        </div>
+      </div>
+      <div class="col-lg-7 align-self-start">
+        <ul class="nav nav-tabs" id="faqTab" role="tablist">
+          <li class="nav-item" *ngFor="let group of faqList; let i = index">
+            <a class="faq-area-tab nav-link" [class.active]="i === 0" id="tab-{{i}}" data-bs-toggle="tab" href="#content-{{i}}" role="tab" [attr.aria-controls]="'content-' + i" [attr.aria-selected]="i === 0">{{ group.group }}</a>
+          </li>
+        </ul>
+        <div class="tab-content" id="faqTabContent">
+          <div class="tab-pane fade" *ngFor="let group of faqList; let i = index" [class.show]="i === 0" [class.active]="i === 0" id="content-{{i}}" role="tabpanel" [attr.aria-labelledby]="'tab-' + i">
+            <div class="accordion" id="accordion-{{i}}">
+              <div class="accordion-item" *ngFor="let item of group.items; let j = index">
+                <h2 class="accordion-header" id="heading-{{i}}-{{j}}">
+                  <button class="accordion-button" type="button" data-bs-toggle="collapse" [attr.data-bs-target]="'#collapse-' + i + '-' + j" aria-expanded="true" [attr.aria-controls]="'collapse-' + i + '-' + j">
+                    <span>{{ j + 1 }}</span> {{ item.title }}
+                  </button>
+                </h2>
+                <div [id]="'collapse-' + i + '-' + j" class="accordion-collapse collapse" [class.show]="j === 0" [attr.aria-labelledby]="'heading-' + i + '-' + j" [attr.bs-parent]="'#accordion-' + i">
+                  <div class="accordion-body">
+                    {{ item.description }}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
