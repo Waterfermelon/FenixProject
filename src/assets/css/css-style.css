@@ -2577,7 +2577,7 @@ CTA css
 ====================== */
 
 .cta-area {
-  background-image: url(../img/bg-cta.jpg);
+  background-image: url(../img/specialPrice.jpg);
   background-position: center;
   background-size: cover;
   padding-top: 120px;
@@ -2984,6 +2984,9 @@ blog css
 }
 
 .blog-item-thumb img {
+  width: 100%;
+  height: 10rem;
+  object-fit: cover;
   position: relative;
   border-radius: 15px;
   box-shadow: 0 0 40px 5px rgb(0 0 0 / 5%);
@@ -4033,6 +4036,12 @@ partner css
 .partner-area {
   padding: 90px 0;
   background: #071C55;
+  color: whitesmoke;
+
+  i{
+    font-size: 5rem;
+    color: #e69a08;
+  }
 }
 
 .partner-item {
@@ -4584,7 +4593,7 @@ footer css
 }
 
 .copyright .copyright-text {
-  text-align: right;
+  text-align: center;
   color: #f5faff;
   margin-bottom: 0px;
   font-size: 16px;
