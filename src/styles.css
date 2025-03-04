@@ -11,5 +11,4 @@
 @import url('assets/css/css-owl.theme.default.min.css');
 @import url('assets/css/css-style.css');
 @import url('assets/css/css-themify-icons.css');
-/*@import 'ngx-owl-carousel-o/lib/styles/scss/owl.carousel';*/
-/*@import 'ngx-owl-carousel-o/lib/styles/scss/owl.theme.default';*/
+@import url('assets/css/css-custom.css');

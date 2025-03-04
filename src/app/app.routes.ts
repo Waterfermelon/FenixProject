@@ -17,6 +17,10 @@ export const routes: Routes = [
         path: 'faq',
         loadComponent: () => import('./views/faq/faq.component').then(m => m.FaqComponent)
       },
+      {
+        path: 'terms',
+        loadComponent: () => import('./views/terms/terms.component').then(m => m.TermsComponent),
+      }
     ]
   },
   {
