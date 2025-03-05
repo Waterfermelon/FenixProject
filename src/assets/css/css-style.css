@@ -176,7 +176,7 @@ preloader
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background-color: #FCA702;
+  background-color: #f26235;
   opacity: 0.6;
   position: absolute;
   top: 0;
@@ -259,7 +259,7 @@ site title css
   text-transform: uppercase;
   font-weight: 600;
   font-size: 18px;
-  color: #FCA702;
+  color: #f26235;
   padding-left: 80px;
   position: relative;
 }
@@ -271,7 +271,7 @@ site title css
   height: 3px;
   left: 0;
   top: 8px;
-  background: #FCA702;
+  background: #f26235;
 }
 
 .site-title {
@@ -517,7 +517,7 @@ theme button
   text-align: center;
   overflow: hidden;
   z-index: 1;
-  background-color: #FCA702;
+  background-color: #f26235;
   border: 2px solid transparent;
   box-shadow: 0 3px 24px rgb(0 0 0 / 10%);
 }
@@ -534,7 +534,7 @@ theme button
 .border-btn {
   background: transparent;
   color: #fff;
-  border-color: #FCA702;
+  border-color: #f26235;
 }
 
 .border-btn:hover {
@@ -616,7 +616,7 @@ scroll-top css
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: #FCA702;
+  background-color: #f26235;
   color: #fff;
   cursor: pointer;
   width: 50px;
@@ -662,7 +662,7 @@ header css
 }
 
 .top-contact-info ul li a:hover {
-  color: #FCA702;
+  color: #f26235;
 }
 
 .top-contact-info ul li a i {
@@ -676,7 +676,7 @@ header css
 }
 
 .top-social a:hover {
-  color: #FCA702;
+  color: #f26235;
 }
 
 .top-header-right {
@@ -709,7 +709,7 @@ header css
 }
 
 .top-header-right .nice-select .option.focus, .top-header-right .nice-select .option.selected.focus, .top-header-right .nice-select .option:hover {
-  background-color: #FCA702;
+  background-color: #f26235;
 }
 
 .top-header-right .account {
@@ -722,7 +722,7 @@ header css
 }
 
 .top-header-right .account a:hover {
-  color: #FCA702;
+  color: #f26235;
 }
 
 .top-header-right .account a i {
@@ -784,14 +784,14 @@ nav menu css
   }
   .navbar .nav-item .dropdown-menu .dropdown-item:hover {
     background: transparent;
-    color: #FCA702;
+    color: #f26235;
     padding-left: 33px;
   }
   .navbar .nav-item .nav-link {
     position: relative;
   }
   .navbar .nav-item:hover .nav-link {
-    color: #FCA702;
+    color: #f26235;
   }
   .navbar .nav-item:hover .dropdown-menu {
     transition: .3s;
@@ -948,7 +948,7 @@ button.navbar-toggler:focus {
   }
 
   .navbar .nav-item .nav-link:hover {
-    color: #FCA702 !important;
+    color: #f26235 !important;
   }
 
   .navbar-toggler{
@@ -1001,7 +1001,7 @@ multi level dropdown menu
 
 .navbar .nav-item .dropdown-submenu a:hover {
   background: transparent;
-  color: #FCA702;
+  color: #f26235;
 }
 
 .navbar .nav-item .dropdown-submenu .dropdown-menu {
@@ -1061,7 +1061,7 @@ hero css
 
 .hero-single .hero-content .hero-sub-title {
   font-size: 20px;
-  color: #FCA702;
+  color: #f26235;
   font-weight: 600;
   position: relative;
   text-transform: uppercase;
@@ -1120,7 +1120,7 @@ hero css
 
 .hero-slider.owl-theme .owl-nav [class*=owl-]:hover {
   background: #fff;
-  color: #FCA702;
+  color: #f26235;
 }
 
 .hero-slider.owl-theme .owl-nav .owl-prev {
@@ -1191,7 +1191,7 @@ play btn
   font-size: 20px;
   text-align: center;
   background: #fff;
-  color: #FCA702;
+  color: #f26235;
   position: absolute;
   border-radius: 50%;
 }
@@ -1295,7 +1295,7 @@ search css
 .search-btn {
   width: 100%;
   border: none;
-  background: #FCA702;
+  background: #f26235;
   color: #fff;
   border-radius: 8px;
   padding: 9px 0;
@@ -1355,7 +1355,7 @@ date picker css
 }
 
 .ui-datepicker .ui-widget-header {
-  background: #FCA702;
+  background: #f26235;
   border: none;
   border-radius: 8px;
 }
@@ -1373,7 +1373,7 @@ date picker css
 }
 
 .ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
-  background: #FCA702;
+  background: #f26235;
   color: #000;
 }
 
@@ -1400,7 +1400,7 @@ about css
   position: absolute;
   bottom: 20px;
   left: 20px;
-  background: #FCA702;
+  background: #f26235;
   padding: 20px;
   border-radius: 15px;
   text-align: center;
@@ -1451,7 +1451,7 @@ about css
 
 .about-list li .icon span {
   font-size: 20px;
-  color: #FCA702;
+  color: #f26235;
 }
 
 .about-list li .text {
@@ -1536,7 +1536,7 @@ destination css
   height: 55px;
   line-height: 55px;
   text-align: center;
-  background: #FCA702;
+  background: #f26235;
   color: #fff !important;
   border-radius: 50px;
   opacity: 0;
@@ -1632,7 +1632,7 @@ destination css
   width: 45px;
   height: 45px;
   line-height: 45px;
-  background: #FCA702;
+  background: #f26235;
   border-radius: 50px;
   text-align: center;
   color: #fff;
@@ -1646,7 +1646,7 @@ destination css
 
 .destination-area3 .destination-info h5 i {
   margin-right: 5px;
-  color: #FCA702;
+  color: #f26235;
 }
 
 /* ===================
@@ -1709,7 +1709,7 @@ destination details
   left: 30px;
   top: 18px;
   font-size: 18px;
-  color: #FCA702;
+  color: #f26235;
 }
 
 .country-info-list li span {
@@ -1766,7 +1766,7 @@ destination details
   height: 60px;
   line-height: 60px;
   border-radius: 50px;
-  background: #FCA702;
+  background: #f26235;
   color: #fff;
   text-align: center;
   left: 50%;
@@ -1802,7 +1802,7 @@ destination details
 
 .destination-category a:hover {
   padding-left: 25px;
-  color: #FCA702;
+  color: #f26235;
 }
 
 .destination-category a::before {
@@ -1810,7 +1810,7 @@ destination details
   position: absolute;
   width: 8px;
   height: 8px;
-  background: #FCA702;
+  background: #f26235;
   left: 0;
   top: 19px;
   border-radius: 3px;
@@ -1888,7 +1888,7 @@ tour css
   right: 20px;
   top: 20px;
   border-radius: 50px;
-  background: #FCA702;
+  background: #f26235;
   color: #fff;
   text-align: center;
   transition: all .5s ease-in-out;
@@ -1896,7 +1896,7 @@ tour css
 
 .tour-area .tour-wish:hover {
   background: #fff;
-  color: #FCA702;
+  color: #f26235;
 }
 
 .tour-area .tour-sale {
@@ -1910,7 +1910,7 @@ tour css
 }
 
 .tour-area .tour-meta {
-  background-color: #FCA702;
+  background-color: #f26235;
   margin-bottom: 25px;
   margin-left: 30px;
   margin-right: 30px;
@@ -1968,11 +1968,11 @@ tour css
 }
 
 .tour-area .tour-info h5:hover {
-  color: #FCA702;
+  color: #f26235;
 }
 
 .tour-area .tour-rating i {
-  color: #FCA702;
+  color: #f26235;
 }
 
 .tour-area .tour-rating span {
@@ -2001,7 +2001,7 @@ tour css
 }
 
 .tour-area .tour-btn {
-  border: 2px solid #FCA702;
+  border: 2px solid #f26235;
   border-radius: 50px;
   padding: 4px 20px;
   color: #232323;
@@ -2009,7 +2009,7 @@ tour css
 }
 
 .tour-area .tour-btn:hover {
-  background: #FCA702;
+  background: #f26235;
   color: #fff;
 }
 
@@ -2078,16 +2078,16 @@ tour css
 }
 
 .tour-sidebar li .form-check .form-check-input:focus {
-  border-color: #FCA702;
+  border-color: #f26235;
 }
 
 .tour-sidebar li .form-check-input:checked {
-  background-color: #FCA702;
-  border-color: #FCA702;
+  background-color: #f26235;
+  border-color: #f26235;
 }
 
 .tour-sidebar .form-check-label i {
-  color: #FCA702;
+  color: #f26235;
 }
 
 /* tour-area 2 */
@@ -2168,7 +2168,7 @@ tour css
 /* tour cart */
 
 .tour-cart thead tr {
-  background: #FCA702;
+  background: #f26235;
   color: #fff;
 }
 
@@ -2233,7 +2233,7 @@ tour css
 }
 
 .cart-coupon .form-control:focus {
-  border-color: #FCA702;
+  border-color: #f26235;
 }
 
 .coupon-btn {
@@ -2241,7 +2241,7 @@ tour css
   color: #fff;
   border-radius: 8px;
   border: none;
-  background: #FCA702;
+  background: #f26235;
   transition: all .5s ease-in-out;
 }
 
@@ -2295,7 +2295,7 @@ tour css
 }
 
 .booking-form .form-group .form-control:focus {
-  border-color: #FCA702;
+  border-color: #f26235;
 }
 
 .booking.cart-summary {
@@ -2394,7 +2394,7 @@ tour single css
 }
 
 .tour-single-rating i {
-  color: #FCA702;
+  color: #f26235;
 }
 
 .tour-single-price {
@@ -2426,7 +2426,7 @@ tour single css
 
 .tour-single-meta ul li i {
   margin-right: 5px;
-  color: #FCA702;
+  color: #f26235;
 }
 
 .tour-plan {
@@ -2448,7 +2448,7 @@ tour single css
   position: absolute;
   content: '';
   width: 1px;
-  border-left: 2px dashed #FCA702;
+  border-left: 2px dashed #f26235;
   height: 100%;
   left: 35px;
   top: 10px;
@@ -2469,7 +2469,7 @@ tour single css
   line-height: 60px;
   font-size: 22px;
   color: #ffffff;
-  background: #FCA702;
+  background: #f26235;
   font-weight: 600;
   text-align: center;
   border-radius: 10px;
@@ -2495,7 +2495,7 @@ tour single css
   line-height: 28px;
   font-weight: 500;
   margin-bottom: 5px;
-  color: #FCA702;
+  color: #f26235;
 }
 
 .tour-single-box h3 {
@@ -2512,7 +2512,7 @@ tour single css
 
 .tour-single-box ul li i{
   margin-right: 10px;
-  color: #FCA702;
+  color: #f26235;
 }
 
 
@@ -2553,7 +2553,7 @@ price range css
   border-radius: 50%;
   cursor: pointer;
   margin-left: 0px;
-  background: #FCA702;
+  background: #f26235;
 }
 
 .price-range .ui-state-focus {
@@ -2561,7 +2561,7 @@ price range css
 }
 
 .price-range .ui-widget-header {
-  background: #FCA702;
+  background: #f26235;
 }
 
 .price-range-input input {
@@ -2608,7 +2608,7 @@ CTA css
 }
 
 .cta-content h2 span {
-  color: #FCA702;
+  color: #f26235;
 }
 
 .cta-content p {
@@ -2619,7 +2619,7 @@ CTA css
 
 .cta-content a {
   margin-top: 50px;
-  background: #FCA702;
+  background: #f26235;
   color: #fff;
   padding: 12px 30px;
   border-radius: 50px;
@@ -2628,7 +2628,7 @@ CTA css
 
 .cta-content a:hover {
   background: #fff;
-  color: #FCA702;
+  color: #f26235;
 }
 
 .cta-content a i {
@@ -2867,11 +2867,11 @@ testimonial css
   right: 30px;
   top: -32px;
   font-size: 50px;
-  color: #FCA702;
+  color: #f26235;
 }
 
 .testimonial-rate i {
-  color: #FCA702;
+  color: #f26235;
 }
 
 .testimonial-content {
@@ -2883,7 +2883,7 @@ testimonial css
 
 .testimonial-author-img {
   margin-right: 20px;
-  border: 2px solid #FCA702;
+  border: 2px solid #f26235;
   border-radius: 50px;
   padding: 5px;
 }
@@ -2913,7 +2913,7 @@ testimonial css
 }
 
 .testimonial-area .owl-dots .owl-dot.active span {
-  background: #FCA702;
+  background: #f26235;
 }
 
 /* ===================
@@ -2921,7 +2921,7 @@ counter css
 ====================== */
 
 .counter-area {
-  background: #FCA702;
+  background: #f26235;
   position: relative;
   z-index: 1;
 }
@@ -3003,7 +3003,7 @@ blog css
 }
 
 .blog-item-meta ul li i {
-  color: #FCA702;
+  color: #f26235;
   margin-right: 5px;
 }
 
@@ -3015,13 +3015,13 @@ blog css
 }
 
 .blog-item-title:hover {
-  color: #FCA702;
+  color: #f26235;
 }
 
 .blog-item-more {
   margin-top: 20px;
   font-weight: 600;
-  color: #FCA702;
+  color: #f26235;
   transition: all .5s ease-in-out;
 }
 
@@ -3074,7 +3074,7 @@ blog single css
 
 .blockqoute {
   background: #eeeeee;
-  border-left: 5px solid #FCA702;
+  border-left: 5px solid #f26235;
   padding: 30px;
   font-size: 17px;
   font-style: italic;
@@ -3118,8 +3118,8 @@ blog single css
 }
 
 .blog-details-tags ul a:hover {
-  background: #FCA702;
-  border-color: #FCA702;
+  background: #f26235;
+  border-color: #f26235;
   color: #fff;
 }
 
@@ -3155,7 +3155,7 @@ blog single css
 }
 
 .author-social a:hover {
-  color: #FCA702;
+  color: #f26235;
 }
 
 .blog-comments {
@@ -3190,7 +3190,7 @@ blog single css
 }
 
 .blog-comments-content a:hover {
-  color: #FCA702;
+  color: #f26235;
 }
 
 .blog-comments-reply {
@@ -3213,11 +3213,11 @@ blog single css
 }
 
 .blog-comments-form .form-control:focus {
-  border-color: #FCA702;
+  border-color: #f26235;
 }
 
 .comment-btn {
-  background: #FCA702;
+  background: #f26235;
   color: #fff;
   border: none;
   border-radius: 10px;
@@ -3287,7 +3287,7 @@ sidebar css
   position: absolute;
   content: '';
   width: 30px;
-  border-bottom: 3px solid #FCA702;
+  border-bottom: 3px solid #f26235;
   bottom: 0;
   left: 0;
 }
@@ -3296,7 +3296,7 @@ sidebar css
   position: absolute;
   content: '';
   width: 5px;
-  border-bottom: 3px solid #FCA702;
+  border-bottom: 3px solid #f26235;
   bottom: 0;
   left: 35px;
 }
@@ -3312,7 +3312,7 @@ sidebar css
 }
 
 .widget .search-form .form-control:focus {
-  border-color: #FCA702;
+  border-color: #f26235;
 }
 
 .widget .search-form button {
@@ -3338,7 +3338,7 @@ sidebar css
 
 .widget .category-list a:hover {
   padding-left: 10px;
-  color: #FCA702;
+  color: #f26235;
 }
 
 .widget .category-list a i {
@@ -3378,7 +3378,7 @@ sidebar css
 }
 
 .widget .recent-post-bio h6 a:hover {
-  color: #FCA702;
+  color: #f26235;
 }
 
 .widget .social-share-link a {
@@ -3470,7 +3470,7 @@ sidebar css
 }
 
 .banner-content h2 span {
-  color: #FCA702;
+  color: #f26235;
 }
 
 /* ===================
@@ -3486,7 +3486,7 @@ contact us css
 
 .contact-form {
   padding: 0 40px;
-  border-right: 4px solid #FCA702;
+  border-right: 4px solid #f26235;
 }
 
 .contact-form-header {
@@ -3512,7 +3512,7 @@ contact us css
 }
 
 .contact-form .form-group .form-control:focus {
-  border-color: #FCA702;
+  border-color: #f26235;
 }
 
 .contact-map iframe {
@@ -3527,7 +3527,7 @@ contact us css
 }
 
 .contact-btn {
-  background: #FCA702;
+  background: #f26235;
   color: #fff;
   border-radius: 10px;
   padding: 10px 20px;
@@ -3546,7 +3546,7 @@ contact us css
 }
 
 .contact-info {
-  background: #FCA702;
+  background: #f26235;
   text-align: center;
   box-shadow: 0 0 40px 5px rgb(0 0 0 / 5%);
   padding: 20px;
@@ -3618,7 +3618,7 @@ team css
 
 .team-social a {
   margin: 6px;
-  color: #FCA702;
+  color: #f26235;
   transition: all .5s ease-in-out;
 }
 
@@ -3634,11 +3634,11 @@ team css
 }
 
 .team-bio a:hover {
-  color: #FCA702;
+  color: #f26235;
 }
 
 .team-bio p {
-  color: #FCA702;
+  color: #f26235;
   font-weight: 500;
   font-size: 14px;
 }
@@ -3667,7 +3667,7 @@ team single css
 }
 
 .team-tagline {
-  color: #FCA702;
+  color: #f26235;
 }
 
 .team-details-info {
@@ -3679,12 +3679,12 @@ team single css
 }
 
 .team-details-info a:hover {
-  color: #FCA702;
+  color: #f26235;
 }
 
 .team-details-info a i {
   margin-right: 10px;
-  color: #FCA702;
+  color: #f26235;
 }
 
 .team-details-social a {
@@ -3696,7 +3696,7 @@ team single css
 }
 
 .team-details-social a:hover {
-  color: #FCA702;
+  color: #f26235;
 }
 
 .biography {
@@ -3737,7 +3737,7 @@ feature css
 }
 
 .feature-icon {
-  color: #FCA702;
+  color: #f26235;
   border-radius: 10px;
   font-size: 40px;
 }
@@ -3984,13 +3984,13 @@ faq css
   line-height: 45px;
   margin-right: 15px;
   border-radius: 50px;
-  background: #FCA702;
+  background: #f26235;
   text-align: center;
   color: #fff;
 }
 
 .faq-area .accordion-button:not(.collapsed) {
-  color: #FCA702;
+  color: #f26235;
   background-color: #fff;
   box-shadow: inset 0 -1px 0 rgb(0 0 0 / 13%);
 }
@@ -4116,7 +4116,7 @@ breadcrumb css
 }
 
 .site-breadcrumb .breadcrumb-menu li.active {
-  color: #FCA702;
+  color: #f26235;
 }
 
 .site-breadcrumb .breadcrumb-menu li::before {
@@ -4139,7 +4139,7 @@ breadcrumb css
 }
 
 .site-breadcrumb .breadcrumb-menu li a:hover {
-  color: #FCA702;
+  color: #f26235;
 }
 
 .site-breadcrumb2 {
@@ -4175,7 +4175,7 @@ pagination css
 }
 
 .pagination .page-link:hover, .pagination .page-item.active .page-link {
-  background: #FCA702;
+  background: #f26235;
 }
 
 /* ===================
@@ -4199,7 +4199,7 @@ auth css
 }
 
 .login-form .login-header h3 {
-  color: #FCA702;
+  color: #f26235;
   margin-bottom: 5px;
   font-weight: 800;
 }
@@ -4217,7 +4217,7 @@ auth css
 }
 
 .login-form .login-footer a {
-  color: #FCA702;
+  color: #f26235;
   transition: .5s;
 }
 
@@ -4242,7 +4242,7 @@ auth css
 }
 
 .login-form .form-group .form-control:focus {
-  border-color: #FCA702;
+  border-color: #f26235;
 }
 
 .login-form .form-check-input {
@@ -4250,7 +4250,7 @@ auth css
 }
 
 .login-form .forgot-pass {
-  color: #FCA702;
+  color: #f26235;
   transition: .5s;
 }
 
@@ -4260,7 +4260,7 @@ auth css
 
 .login-form .login-btn {
   width: 100%;
-  background: #FCA702;
+  background: #f26235;
   color: #fff;
   padding: 12px 0;
   border: none;
@@ -4285,7 +4285,7 @@ auth css
 }
 
 .login-form .form-check-label a {
-  color: #FCA702;
+  color: #f26235;
   transition: .5s;
 }
 
@@ -4337,7 +4337,7 @@ gallery css
   height: 60px;
   line-height: 60px;
   border-radius: 50px;
-  background: #FCA702;
+  background: #f26235;
   color: #fff;
   text-align: center;
   left: 50%;
@@ -4407,7 +4407,7 @@ coming soon css
   height: auto;
   border: none;
   border-radius: 30px;
-  background-color: #FCA702;
+  background-color: #f26235;
   display: inline-block;
   color: #fff;
   padding-left: 30px;
@@ -4439,8 +4439,8 @@ coming soon css
 }
 
 .coming-social a:hover {
-  background-color: #FCA702;
-  border-color: #FCA702;
+  background-color: #f26235;
+  border-color: #f26235;
 }
 
 .countdown-wrap {
@@ -4456,11 +4456,11 @@ coming soon css
 }
 
 .countdown-single h2 {
-  color: #FCA702;
+  color: #f26235;
 }
 
 .countdown-single h5 {
-  color: #FCA702;
+  color: #f26235;
 }
 
 /* ===================
@@ -4509,7 +4509,7 @@ terms/privacy css
 .terms-content h3:after {
   width: 25px;
   height: 5px;
-  background: #FCA702;
+  background: #f26235;
   border-radius: 10px;
   left: 0;
   top: 50%;
@@ -4589,7 +4589,7 @@ footer css
 }
 
 .copyright .footer-menu li a:hover {
-  color: #FCA702;
+  color: #f26235;
 }
 
 .copyright .copyright-text {
@@ -4600,7 +4600,7 @@ footer css
 }
 
 .copyright .copyright-text a {
-  color: #FCA702;
+  color: #f26235;
   font-weight: 600;
 }
 
@@ -4618,7 +4618,7 @@ footer css
   z-index: -1;
   width: 40px;
   height: 2px;
-  background-color: #FCA702;
+  background-color: #f26235;
   bottom: 0;
   left: 0;
 }
@@ -4629,7 +4629,7 @@ footer css
   z-index: -1;
   width: 5px;
   height: 2px;
-  background-color: #FCA702;
+  background-color: #f26235;
   bottom: 0;
   left: 45px;
 }
@@ -4647,7 +4647,7 @@ footer css
 
 .footer-list li a:hover {
   padding-left: 10px;
-  color: #FCA702;
+  color: #f26235;
 }
 
 .footer-widget-box p {
@@ -4667,14 +4667,14 @@ footer css
   width: 40px;
   line-height: 35px;
   text-align: center;
-  border: 2px solid #FCA702;
+  border: 2px solid #f26235;
   color: #fff;
   border-radius: 50%;
   transition: all .5s ease-in-out;
 }
 
 .footer-social li a i:hover {
-  background: #FCA702;
+  background: #f26235;
   color: #fff;
 }
 
@@ -4708,7 +4708,7 @@ footer css
 
 .footer-newsletter .subscribe-form .theme-btn:hover {
   background: #fff;
-  color: #FCA702;
+  color: #f26235;
 }
 
 .footer-newsletter .subscribe-form .theme-btn i {
@@ -4741,7 +4741,7 @@ footer css
   text-align: center;
   -webkit-transition: 0.3s;
   transition: 0.3s;
-  color: #FCA702;
+  color: #f26235;
 }
 
 @media all and (max-width: 1199px) {
@@ -4779,7 +4779,7 @@ home 2
 home 3
 ==================== */
 .home-3 .top-header{
-  background: #FCA702;
+  background: #f26235;
 }
 
 .home-3.main{
@@ -4792,7 +4792,7 @@ home 3
 }
 
 .home-3 .navbar .nav-item .nav-link:hover{
-  color: #FCA702;
+  color: #f26235;
 }
 
 .home-3 .hero-single{
