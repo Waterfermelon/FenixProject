@@ -25,7 +25,7 @@ export class LandingComponent implements AfterViewInit {
     {
       name: 'Sherman',
       country: 'Estados Unidos',
-      imageUrl: '/assets/img/sherman.jpg',
+      imageUrl: 'assets/img/sherman.jpg',
       description: '',
       id: 1
     },
@@ -33,62 +33,62 @@ export class LandingComponent implements AfterViewInit {
       id: 2,
       name: 'Chihuahua',
       description: '',
-      imageUrl: '/assets/img/chihuahua.jpg',
+      imageUrl: 'assets/img/chihuahua.jpg',
       country: 'México',
     },
     {
       id: 3,
       name: 'Delicias',
       country: 'México',
-      imageUrl: '/assets/img/delicias.jpg',
+      imageUrl: 'assets/img/delicias.jpg',
       description: ''
     },
     {
       id: 4,
       name: 'Cuahtémoc',
       description: '',
-      imageUrl: '/assets/img/imagen_cuauhtemoc.jpg',
+      imageUrl: 'assets/img/imagen_cuauhtemoc.jpg',
       country: 'México'
     },
     {
       name: 'Dallas',
       country: 'Estados Unidos',
-      imageUrl: '/assets/img/dallas.jpg',
+      imageUrl: 'assets/img/dallas.jpg',
     },
     {
       name: 'Oakland',
       country: 'Estados Unidos',
-      imageUrl: '/assets/img/oakland.jpg',
+      imageUrl: 'assets/img/oakland.jpg',
     },
     {
       name: 'Amarillo',
       country: 'Estados Unidos',
-      imageUrl: '/assets/img/amarillo.jpg',
+      imageUrl: 'assets/img/amarillo.jpg',
     },
     {
       name: 'Forth Worth',
       country: 'Estados Unidos',
-      imageUrl: '/assets/img/forth_worth.jpg',
+      imageUrl: 'assets/img/forth_worth.jpg',
     },
     {
       name: 'McKinney',
       country: 'Estados Unidos',
-      imageUrl: '/assets/img/mckinney.jpg',
+      imageUrl: 'assets/img/mckinney.jpg',
     },
     {
       name: 'Midland',
       country: 'Estados Unidos',
-      imageUrl: '/assets/img/midland.jpg',
+      imageUrl: 'assets/img/midland.jpg',
     },
     {
       name: 'Tulsa',
       country: 'Estados Unidos',
-      imageUrl: '/assets/img/tulsa.jpg',
+      imageUrl: 'assets/img/tulsa.jpg',
     },
     {
       name: 'Odessa',
       country: 'Estados Unidos',
-      imageUrl: '/assets/img/odessa.jpg',
+      imageUrl: 'assets/img/odessa.jpg',
     }
 
   ]
