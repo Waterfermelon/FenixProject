@@ -13,6 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
+            "baseHref": "/clientes/fenix/",
             "stylePreprocessorOptions": {
               "sass": {
                 "silenceDeprecations": ["color-functions", "global-builtin", "import", "mixed-decls"]

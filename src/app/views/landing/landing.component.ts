@@ -25,7 +25,7 @@ export class LandingComponent implements AfterViewInit {
     {
       name: 'Sherman',
       country: 'Estados Unidos',
-      imageUrl: 'https://businessintexas.com/wp-content/uploads/2020/06/ranking-sherman-1-1-best-place-to-live-in-grayson-county-tx.jpg',
+      imageUrl: 'assets/img/sherman.jpg',
       description: '',
       id: 1
     },
@@ -33,23 +33,64 @@ export class LandingComponent implements AfterViewInit {
       id: 2,
       name: 'Chihuahua',
       description: '',
-      imageUrl: 'https://noro.mx/wp-content/uploads/2024/07/chihuahua-3.jpg',
+      imageUrl: 'assets/img/chihuahua.jpg',
       country: 'México',
     },
     {
       id: 3,
       name: 'Delicias',
       country: 'México',
-      imageUrl: 'https://oem.com.mx/elheraldodechihuahua/img/14807779/1680323474/BASE_LANDSCAPE/480/WhatsApp%20Image%202023-04-01%20at%209.18.07%20AM%20(1).webp',
+      imageUrl: 'assets/img/delicias.jpg',
       description: ''
     },
     {
       id: 4,
       name: 'Cuahtémoc',
       description: '',
-      imageUrl: '/assets/img/imagen_cuauhtemoc.jpg',
+      imageUrl: 'assets/img/imagen_cuauhtemoc.jpg',
       country: 'México'
+    },
+    {
+      name: 'Dallas',
+      country: 'Estados Unidos',
+      imageUrl: 'assets/img/dallas.jpg',
+    },
+    {
+      name: 'Oakland',
+      country: 'Estados Unidos',
+      imageUrl: 'assets/img/oakland.jpg',
+    },
+    {
+      name: 'Amarillo',
+      country: 'Estados Unidos',
+      imageUrl: 'assets/img/amarillo.jpg',
+    },
+    {
+      name: 'Forth Worth',
+      country: 'Estados Unidos',
+      imageUrl: 'assets/img/forth_worth.jpg',
+    },
+    {
+      name: 'McKinney',
+      country: 'Estados Unidos',
+      imageUrl: 'assets/img/mckinney.jpg',
+    },
+    {
+      name: 'Midland',
+      country: 'Estados Unidos',
+      imageUrl: 'assets/img/midland.jpg',
+    },
+    {
+      name: 'Tulsa',
+      country: 'Estados Unidos',
+      imageUrl: 'assets/img/tulsa.jpg',
+    },
+    {
+      name: 'Odessa',
+      country: 'Estados Unidos',
+      imageUrl: 'assets/img/odessa.jpg',
     }
+
   ]
 
   public testimonials = [
